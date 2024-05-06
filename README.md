@@ -1,6 +1,6 @@
 # Analysis-of-Customer-Repurchase-Rate
 
-The Test.py file contains python code that performs task 1 and task 2.
+The main.py file contains python code that performs task 1 and task 2.
 
 Task 1: In the first step, code combines data from all the three files to one file. On combining Billing phone, Shipping phone, Billing zip, Shipping zip, Billing Street, Billing Address1, Billing Address2, ShippingStreet, Shipping Address1 & Shipping Address2 are cleansed and standardized by writing functions for each category of attribute and then calling those functions from main method.
 
